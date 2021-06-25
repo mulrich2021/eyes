@@ -1,8 +1,11 @@
 # Eyes
-Animation to show eyes following the mouse.
+Using css to create the effect, a working website with animated eyes that follow the cursor.
 
-## contains html, css, and javascript
+## Running requirement
 Nothing extra to run. Proof of concept available on my portfolio.
+
+## Potential improvements
+It might be interesting to introduce a crossed-eyes ability, as this seems to be lacking in the present working version.
 
 ## License
 Copyright <2021>
